@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_details">Details</string>
+    <string name="MovieTrailer">Movie Trailer</string>
+    <string name="Released">Released:</string>
+    <string name="Overview">Overview:</string>
+</resources>
